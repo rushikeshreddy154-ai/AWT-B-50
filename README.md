@@ -30,3 +30,4 @@ This project is a simple Student Registration Form developed using HTML, CSS, an
 ## Author
 
 Student
+GitHub Pages deployment enabled.
